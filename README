@@ -1,7 +1,7 @@
 django-flash
 ------------
 
-    http://github.com/danielfm/django-flash/tree
+    http://github.com/danielfm/django-flash
 
 django-flash adds a Rails-like flash context support to Django.
 
